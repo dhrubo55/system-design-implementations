@@ -1,0 +1,3 @@
+[submodule "distributed-id"]
+	path = distributed-id
+	url = https://github.com/dhrubo55/distributed-id-generator.git
